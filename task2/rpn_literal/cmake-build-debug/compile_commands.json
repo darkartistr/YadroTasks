@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Yadrics/rpn_literals/cmake-build-debug",
+  "command": "\"D:\\Clion1\\CLion 2025.3.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\rpn_literals.dir\\main.cpp.obj -c D:\\Yadrics\\rpn_literals\\main.cpp",
+  "file": "D:/Yadrics/rpn_literals/main.cpp",
+  "output": "D:/Yadrics/rpn_literals/cmake-build-debug/CMakeFiles/rpn_literals.dir/main.cpp.obj"
+}
+]
