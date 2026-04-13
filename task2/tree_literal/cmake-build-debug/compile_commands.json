@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Yadrics/tree/cmake-build-debug",
+  "command": "\"D:\\Clion1\\CLion 2025.3.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\tree.dir\\main.cpp.obj -c D:\\Yadrics\\tree\\main.cpp",
+  "file": "D:/Yadrics/tree/main.cpp",
+  "output": "D:/Yadrics/tree/cmake-build-debug/CMakeFiles/tree.dir/main.cpp.obj"
+}
+]
