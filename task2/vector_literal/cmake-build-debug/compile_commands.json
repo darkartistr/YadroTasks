@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Yadrics/vector_lit/cmake-build-debug",
+  "command": "\"D:\\Clion1\\CLion 2025.3.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\vector_lit.dir\\main.cpp.obj -c D:\\Yadrics\\vector_lit\\main.cpp",
+  "file": "D:/Yadrics/vector_lit/main.cpp",
+  "output": "D:/Yadrics/vector_lit/cmake-build-debug/CMakeFiles/vector_lit.dir/main.cpp.obj"
+}
+]
