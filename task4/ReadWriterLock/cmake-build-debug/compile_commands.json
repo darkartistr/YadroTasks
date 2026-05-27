@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Yadrics/ReadWriterLock/cmake-build-debug",
+  "command": "\"D:\\Clion1\\CLion 2025.3.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ReadWriterLock.dir\\main.cpp.obj -c D:\\Yadrics\\ReadWriterLock\\main.cpp",
+  "file": "D:/Yadrics/ReadWriterLock/main.cpp",
+  "output": "D:/Yadrics/ReadWriterLock/cmake-build-debug/CMakeFiles/ReadWriterLock.dir/main.cpp.obj"
+}
+]
