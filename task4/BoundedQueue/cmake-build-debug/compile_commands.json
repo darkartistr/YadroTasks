@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Yadrics/BoundedQueue/cmake-build-debug",
+  "command": "\"D:\\Clion1\\CLion 2025.3.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\BoundedQueue.dir\\main.cpp.obj -c D:\\Yadrics\\BoundedQueue\\main.cpp",
+  "file": "D:/Yadrics/BoundedQueue/main.cpp",
+  "output": "D:/Yadrics/BoundedQueue/cmake-build-debug/CMakeFiles/BoundedQueue.dir/main.cpp.obj"
+}
+]
